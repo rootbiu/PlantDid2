@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paint by Example: Exemplar-based Image Editing with Diffusion Models
 ![Teaser](figure/teaser.png)
 ### [Paper](https://arxiv.org/abs/2211.13227) | [Huggingface Demo](https://huggingface.co/spaces/Fantasy-Studio/Paint-by-Example) 
@@ -189,3 +190,7 @@ Please open a GitHub issue for any help. If you have any questions regarding the
 The codes and the pretrained model in this repository are under the CreativeML OpenRAIL M license as specified by the LICENSE file.
 
 The test benchmark, COCOEE, belongs to the COCO Consortium and are licensed under a Creative Commons Attribution 4.0 License.
+=======
+# PlantDid
+PlantDid:
+>>>>>>> 0e971417d92c4c3f9e9c115d7ab6be778f7a80d4
