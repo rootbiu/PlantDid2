@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Paint by Example: Exemplar-based Image Editing with Diffusion Models
 ![Teaser](figure/teaser.png)
 ### [Paper](https://arxiv.org/abs/2211.13227) | [Huggingface Demo](https://huggingface.co/spaces/Fantasy-Studio/Paint-by-Example) 
@@ -194,3 +195,7 @@ The test benchmark, COCOEE, belongs to the COCO Consortium and are licensed unde
 # PlantDid
 PlantDid:
 >>>>>>> 0e971417d92c4c3f9e9c115d7ab6be778f7a80d4
+=======
+# PlantDid2
+PlantDid2
+>>>>>>> 4574c44c25d53874edb121cd1200e6d0598c2282
